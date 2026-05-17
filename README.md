@@ -64,7 +64,7 @@ Key analyses performed using MySQL:
 ![Overview](overview.png)
 
 ### Performance Analysis
-![Performance Analysis](performance_analysis.png)
+![Performance Analysis](https://github.com/ankur-analytics/mutual-fund-performance-analysis/blob/main/Performance_analysis.png)
 
 ### Risk vs Return
 ![Risk vs Return](https://github.com/ankur-analytics/mutual-fund-performance-analysis/blob/main/risk%20_vs_return.png)
