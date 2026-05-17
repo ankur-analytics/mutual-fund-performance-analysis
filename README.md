@@ -6,10 +6,10 @@ risk-return tradeoffs, expense ratio impact and AMC-wise comparisons
 using MySQL and Power BI.
 
 ## Tools Used
-- MySQL — Data exploration and analysis
-- Power BI — Interactive dashboard
-- Power Query — Data cleaning and transformation
-- DAX — Custom measures and KPIs
+- MySQL - Data exploration and analysis
+- Power BI - Interactive dashboard
+- Power Query - Data cleaning and transformation
+- DAX - Custom measures and KPIs
 
 ## Dataset
 - Source: Kaggle — Mutual Funds India Detailed
@@ -38,14 +38,14 @@ mutual-fund-performance-analysis/
 └── README.md
 
 ## Dashboard Pages
-1. **Overview** — Fund universe snapshot, AUM distribution, category breakdown
-2. **Performance Analysis** — Top funds, category returns, fund age vs returns
-3. **Risk vs Return** — Sharpe ratio analysis, expense ratio impact, risk levels
-4. **AMC Comparison** — Best performing fund houses by returns and rating
+1. **Overview** - Fund universe snapshot, AUM distribution, category breakdown
+2. **Performance Analysis** - Top funds, category returns, fund age vs returns
+3. **Risk vs Return** - Sharpe ratio analysis, expense ratio impact, risk levels
+4. **AMC Comparison** - Best performing fund houses by returns and rating
 
 ## Key Findings
 - Equity funds deliver highest avg 5yr returns at 12.1% vs Debt at 6.4%
-- 546 funds have Sharpe ratio above 1 — indicating good risk adjusted returns
+- 546 funds have Sharpe ratio above 1 - indicating good risk adjusted returns
 - Low expense ratio funds outperform high cost funds across all categories
 - Quant Mutual Fund leads AMC rankings by both avg 5yr returns and rating
 - Total AUM across all 814 funds = ₹31,03,663 crore
@@ -56,7 +56,7 @@ Key analyses performed using MySQL:
 - Top 10 and bottom 10 funds by 5yr returns
 - Expense ratio impact on returns using CASE bucketing
 - AMC wise performance comparison
-- Window functions — RANK() and AVG() OVER PARTITION BY
+- Window functions - RANK() and AVG() OVER PARTITION BY
 
 ## Screenshots
 
