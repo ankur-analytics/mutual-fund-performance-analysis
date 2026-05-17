@@ -12,7 +12,7 @@ using MySQL and Power BI.
 - DAX - Custom measures and KPIs
 
 ## Dataset
-- Source: Kaggle — Mutual Funds India Detailed
+- Source: Kaggle - Mutual Funds India Detailed
 - File: comprehensive_mutual_funds_data.xlsx
 - Records: 814 mutual fund schemes
 - Columns: 20 attributes including returns, risk metrics, AMC details
