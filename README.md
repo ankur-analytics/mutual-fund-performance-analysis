@@ -67,7 +67,7 @@ Key analyses performed using MySQL:
 ![Performance Analysis](performance_analysis.png)
 
 ### Risk vs Return
-![Risk vs Return](risk_vs_return.png)
+![Risk vs Return](risk _vs_return.png)
 
 ### AMC Comparison
 ![AMC Comparison](amc_comparison.png)
